@@ -46,7 +46,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderRituraj&show_icons=true&locale=en&layout=compact" alt="Passionate-Dev-Notes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Passionate-Dev-Notes&show_icons=true&locale=en&layout=compact" alt="Passionate-Dev-Notes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Passionate-Dev-Notes&show_icons=true&locale=en" alt="Passionate-Dev-Notes" /></p>
 
